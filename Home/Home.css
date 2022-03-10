@@ -20,17 +20,12 @@
 
 .iframeNav {
   width: 100%;
-  height: 100vh;
-}
-
-.iframeSlider {
-  width: 100vw;
-  height: 87vh;
+  height: 91vh;
 }
 
 .iframeFooter {
   width: 100%;
-  height: 13vh;
+  height: 9vh;
 }
 
 
@@ -41,7 +36,7 @@
   }
   .iframeSlider {
     width: 100%;
-    height: 85vh;
+    height: 63vh;
   }
   .iframeFooter {
     width: 100%;
@@ -68,7 +63,7 @@
   }
   .iframeSlider {
     width: 100%;
-    height: 75vh;
+    height: 68vh;
   }
   .iframeFooter {
     margin-top: 208px;

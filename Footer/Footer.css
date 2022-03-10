@@ -31,6 +31,10 @@ footer .redes {
   justify-content: space-between;
 }
 
+footer a {
+  color: black;
+}
+
 @media (max-width: 500px) {
   footer {
     display: flex;
