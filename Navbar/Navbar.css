@@ -13,7 +13,7 @@
   height: 80px;
   width: 100%;
   padding: 10px 30px;
-  background: rgb(194, 204, 194);
+  background: rgb(155, 158, 155);
   border: 1px solid black;
 }
 
@@ -74,42 +74,6 @@ nav .btns .whatsapp {
 }
 .telephone {
   height: 20px;
-}
-
-.body {
-  background: linear-gradient(
-    to top,
-    rgb(194, 204, 194),
-    white,
-    white,
-    white,
-    rgb(194, 204, 194)
-  );
-  height: calc(100vh - 160px);
-  width: 100%;
-}
-
-footer {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  justify-items: center;
-  height: 80px;
-  width: 100%;
-  padding: 20px 30px;
-  background: rgb(194, 204, 194);
-  border: 1px solid black;
-}
-
-footer .created {
-  display: flex;
-  justify-content: center;
-  
-}
-
-footer .redes {
-  display: flex;
-  justify-content: space-between;
 }
 
 /*Responsive*/
@@ -189,14 +153,5 @@ footer .redes {
   }
   #check:checked ~ .btn {
     left: 0;
-  }
-  footer .redes {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    justify-content: center;
-  }
-  footer a {
-    margin: 5px 20px;
   }
 }
