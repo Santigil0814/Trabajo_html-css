@@ -19,6 +19,7 @@ img {
 }
 
 .slider {
+    padding: 20px;
     position: relative;
     max-width: 1000px;
     width: 100%;
